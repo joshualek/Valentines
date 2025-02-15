@@ -506,8 +506,8 @@ a.nav-link {
 /* Adjust for mobile */
 @media (max-width: 768px) {
   .custom-offcanvas {
-      width: 30vw !important;
-      max-width: 50vw !important;
+      width: 50vw !important;
+      max-width: 70vw !important;
   }
 }
 
