@@ -140,5 +140,12 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  min-height: 100vh;
+  /* padding-top: 100px; */
+}
+
+@media (max-width: 768px) {
+  .cards {
+    /* padding-top: 120px; More space for mobile view */
+  }
 }

@@ -5,6 +5,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 10px;
     border: none !important;
     border-radius: 20px !important; 
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* Soft shadow */
@@ -20,6 +21,12 @@
     width: 200px;
     height: 200px;
     object-fit: contain;
+}
+
+@media (max-width: 768px) {
+    .card-container {
+      max-width: 100%;
+    }
 }
 
 .card-body {

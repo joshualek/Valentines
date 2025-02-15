@@ -30,7 +30,7 @@ const CardsContainer = () => {
             backgroundColor: "var(--bs-light)",
             fontColor: "var(--bs-dark)",
             cardContent: (
-                <p>Dear Mimi, I am so grateful to have you in another year of my life. 
+                <p>Mi amor, I am so grateful to have you in another year of my life. 
                     <br />
                     I love you so much and I can't wait to see you soon. Before that, 
                     <br />
