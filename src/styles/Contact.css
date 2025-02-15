@@ -1,0 +1,43 @@
+.contact-card {
+    background: linear-gradient(to right, #6a0808, #BA8F91); /* Gradient background */
+    color: white;
+    text-align: center;
+    padding: 40px;
+    border-radius: 15px;
+    width: 100%;
+    max-width: 600px !important;
+    margin: auto;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.contact-subtitle {
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    opacity: 0.8;
+}
+
+.contact-title {
+    font-size: 28px;
+    font-weight: bold;
+    line-height: 1.4;
+    margin-bottom: 20px;
+}
+
+.contact-btn {
+    background-color: #C8AE9A;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.contact-btn:hover {
+    background-color: #8A7E75;
+}
