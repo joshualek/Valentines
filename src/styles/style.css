@@ -494,6 +494,7 @@ a.nav-link {
 
 .custom-offcanvas {
   background-color: var(--bs-secondary) !important;
+  max-width: 80vw;
 }
 
 /* Fixed Header

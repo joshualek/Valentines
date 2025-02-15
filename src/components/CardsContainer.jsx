@@ -45,7 +45,7 @@ const CardsContainer = () => {
             backgroundColor: "var(--bs-secondary)",
             fontColor: "var(--bs-light)",
             cardContent: (
-                <iframe width="600" height="337.5" src="https://www.youtube.com/embed/HgTlZsjVQDQ" title="Father John Misty - Real Love Baby (Lyrics)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe width="100%" height="337.5" src="https://www.youtube.com/embed/HgTlZsjVQDQ" title="Father John Misty - Real Love Baby (Lyrics)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             )
         },
         {
