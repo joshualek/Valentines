@@ -496,6 +496,21 @@ a.nav-link {
   background-color: var(--bs-secondary) !important;
   max-width: 80vw;
 }
+/* Default offcanvas width (desktop) */
+.custom-offcanvas {
+  background-color: var(--bs-secondary) !important;
+  width: 300px !important; 
+  max-width: 80vw !important; 
+}
+
+/* Adjust for mobile */
+@media (max-width: 768px) {
+  .custom-offcanvas {
+      width: 30vw !important;
+      max-width: 50vw !important;
+  }
+}
+
 
 /* Fixed Header
 ------------------------------------------------------------- */ 
